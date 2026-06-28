@@ -1,4 +1,4 @@
-print('Boas-vindas, Davi Wellington Ribeiro da Silva!')
+print("Bem-vindo ao Sistema de Orçamento para Venda de Madeira!")
 print('[PIN] - Tora de Pinho --> R$ 150.40')
 print('[PER] - Tora de Peroba --> R$ 170.20')
 print('[MOG] - Tora de Mogno --> R$ 190.90')
